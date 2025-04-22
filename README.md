@@ -1,6 +1,6 @@
-# Tic Tac Toe - Java Console Game
+# TikTakToe - Java Console Game
 
-A simple **Tic Tac Toe** (Tik Tak Toe) game built with Java for two players. Played in the console, this game allows players to take turns placing Xs and Os until someone wins or the game results in a draw.
+A simple **Tik Tak Toe** game built with Java for two players. Played in the console, this game allows players to take turns placing Xs and Os until someone wins or the game results in a draw.
 
 ---
 

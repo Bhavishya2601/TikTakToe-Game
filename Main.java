@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TicTacToe {
+public class Main {
     static char[][] board = {
         {' ', ' ', ' '},
         {' ', ' ', ' '},
